@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cpere\\Desktop\\TehnoOptic\\WebTehnoOptic\\WebTehnoOptic\\WebTehnoOptic.csproj",
+      "projectUniqueName": "C:\\Users\\cpere\\source\\repos\\WebTehnoOptic\\WebTehnoOptic\\WebTehnoOptic.csproj",
       "projectName": "WebTehnoOptic",
-      "projectPath": "C:\\Users\\cpere\\Desktop\\TehnoOptic\\WebTehnoOptic\\WebTehnoOptic\\WebTehnoOptic.csproj",
+      "projectPath": "C:\\Users\\cpere\\source\\repos\\WebTehnoOptic\\WebTehnoOptic\\WebTehnoOptic.csproj",
       "packagesPath": "C:\\Users\\cpere\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cpere\\Desktop\\TehnoOptic\\WebTehnoOptic\\WebTehnoOptic\\obj\\",
+      "outputPath": "C:\\Users\\cpere\\source\\repos\\WebTehnoOptic\\WebTehnoOptic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cpere\\AppData\\Roaming\\NuGet\\NuGet.Config",

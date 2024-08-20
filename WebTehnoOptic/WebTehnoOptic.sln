@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTehnoOptic", "WebTehnoOptic\WebTehnoOptic.csproj", "{971A977C-12AF-48F4-81AB-28D30A2F12F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTehnoOptic", "WebTehnoOptic\WebTehnoOptic.csproj", "{5AFAF393-BC39-4208-8F0E-850A2B32116C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{971A977C-12AF-48F4-81AB-28D30A2F12F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{971A977C-12AF-48F4-81AB-28D30A2F12F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{971A977C-12AF-48F4-81AB-28D30A2F12F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{971A977C-12AF-48F4-81AB-28D30A2F12F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFAF393-BC39-4208-8F0E-850A2B32116C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFAF393-BC39-4208-8F0E-850A2B32116C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFAF393-BC39-4208-8F0E-850A2B32116C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFAF393-BC39-4208-8F0E-850A2B32116C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3EE91A98-2188-4998-A189-6CB0A1B22387}
+		SolutionGuid = {4BD90D7E-241F-48F4-966F-B28FF82B01F2}
 	EndGlobalSection
 EndGlobal
